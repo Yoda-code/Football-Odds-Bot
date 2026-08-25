@@ -1,0 +1,42 @@
+{
+  "alerted_bets": {
+    "bdb14878ab273b21885de07fec24d7d2:totals:Under": "2026-08-25T00:22:17.432452+00:00",
+    "bdb14878ab273b21885de07fec24d7d2:totals:Over": "2026-08-25T00:22:17.749789+00:00",
+    "11ad11baf8085245daffc75714d90b54:totals:Under": "2026-08-25T00:22:18.069723+00:00"
+  },
+  "bet_log": [
+    {
+      "timestamp": "2026-08-25T00:22:17.432475+00:00",
+      "teams": "VfB Stuttgart vs 1. FC K\u00f6ln",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 3.4,
+      "bookmaker": "William Hill",
+      "edge": 8.3,
+      "confidence": 45,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-25T00:22:17.749809+00:00",
+      "teams": "VfB Stuttgart vs 1. FC K\u00f6ln",
+      "market": "totals",
+      "selection": "Over",
+      "odds": 1.88,
+      "bookmaker": "1xBet",
+      "edge": 5.6,
+      "confidence": 40,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-25T00:22:18.069743+00:00",
+      "teams": "Bayer Leverkusen vs Union Berlin",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.75,
+      "bookmaker": "William Hill",
+      "edge": 3.3,
+      "confidence": 32,
+      "result": "pending"
+    }
+  ]
+}
