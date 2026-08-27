@@ -1,9 +1,11 @@
 {
   "alerted_bets": {
-    "11ad11baf8085245daffc75714d90b54:totals:Under": "2026-08-26T08:51:39.575969+00:00",
-    "bdb14878ab273b21885de07fec24d7d2:totals:Under": "2026-08-26T08:51:39.966381+00:00",
-    "11ad11baf8085245daffc75714d90b54:totals:Over": "2026-08-26T08:51:40.347827+00:00",
-    "bdb14878ab273b21885de07fec24d7d2:totals:Over": "2026-08-26T08:51:40.714692+00:00"
+    "11ad11baf8085245daffc75714d90b54:totals:Under": "2026-08-27T18:59:50.828878+00:00",
+    "2240f9dbb1e05544f66815ec3e372e40:totals:Over": "2026-08-27T18:59:51.352710+00:00",
+    "4170df86e38cce05981284b914ce86d1:totals:Under": "2026-08-27T18:59:51.841684+00:00",
+    "bdb14878ab273b21885de07fec24d7d2:totals:Under": "2026-08-27T18:59:52.335261+00:00",
+    "da7576d88856817ab0e8d8b71cb4a89a:totals:Under": "2026-08-27T18:59:52.831255+00:00",
+    "1a1967df9869d19688686be9b5cad1ed:totals:Under": "2026-08-27T18:59:56.403911+00:00"
   },
   "bet_log": [
     {
@@ -81,6 +83,72 @@
       "bookmaker": "1xBet",
       "edge": 6.0,
       "confidence": 41,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-27T18:59:50.828895+00:00",
+      "teams": "Bayer Leverkusen vs Union Berlin",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.75,
+      "bookmaker": "William Hill",
+      "edge": 12.7,
+      "confidence": 55,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-27T18:59:51.352726+00:00",
+      "teams": "Borussia Monchengladbach vs Elversberg",
+      "market": "totals",
+      "selection": "Over",
+      "odds": 2.38,
+      "bookmaker": "BetRivers",
+      "edge": 12.2,
+      "confidence": 55,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-27T18:59:51.841700+00:00",
+      "teams": "Eintracht Frankfurt vs Augsburg",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.68,
+      "bookmaker": "Betsson",
+      "edge": 12.0,
+      "confidence": 53,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-27T18:59:52.335278+00:00",
+      "teams": "VfB Stuttgart vs 1. FC K\u00f6ln",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 3.4,
+      "bookmaker": "William Hill",
+      "edge": 12.4,
+      "confidence": 52,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-27T18:59:52.831273+00:00",
+      "teams": "TSG Hoffenheim vs Borussia Dortmund",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.75,
+      "bookmaker": "Betsson",
+      "edge": 6.4,
+      "confidence": 36,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-08-27T18:59:56.403928+00:00",
+      "teams": "Werder Bremen vs RB Leipzig",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.52,
+      "bookmaker": "Betsson",
+      "edge": 4.4,
+      "confidence": 31,
       "result": "pending"
     }
   ]
