@@ -1,5 +1,8 @@
 {
-  "alerted_bets": {},
+  "alerted_bets": {
+    "15e3bf25540c88237a06c03df1cb334b:totals:Over": "2026-09-01T00:18:11.726179+00:00",
+    "79bc2eff76fa09664659765d5b1ded1a:totals:Under": "2026-09-01T00:18:12.072519+00:00"
+  },
   "bet_log": [
     {
       "timestamp": "2026-08-25T00:22:17.432475+00:00",
@@ -208,6 +211,28 @@
       "bookmaker": "Betsson",
       "edge": 5.4,
       "confidence": 34,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-09-01T00:18:11.726199+00:00",
+      "teams": "Getafe vs Deportivo La Coru\u00f1a",
+      "market": "totals",
+      "selection": "Over",
+      "odds": 3.15,
+      "bookmaker": "Nordic Bet",
+      "edge": 7.0,
+      "confidence": 36,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-09-01T00:18:12.072542+00:00",
+      "teams": "Sevilla vs Valencia",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 1.78,
+      "bookmaker": "Pinnacle",
+      "edge": 3.5,
+      "confidence": 32,
       "result": "pending"
     }
   ]
