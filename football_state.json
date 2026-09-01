@@ -1,7 +1,8 @@
 {
   "alerted_bets": {
     "15e3bf25540c88237a06c03df1cb334b:totals:Over": "2026-09-01T00:18:11.726179+00:00",
-    "79bc2eff76fa09664659765d5b1ded1a:totals:Under": "2026-09-01T00:18:12.072519+00:00"
+    "79bc2eff76fa09664659765d5b1ded1a:totals:Under": "2026-09-01T00:18:12.072519+00:00",
+    "988bf24f295c26c84ff1890b0df16cdf:totals:Under": "2026-09-01T19:44:25.167964+00:00"
   },
   "bet_log": [
     {
@@ -233,6 +234,17 @@
       "bookmaker": "Pinnacle",
       "edge": 3.5,
       "confidence": 32,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-09-01T19:44:25.167977+00:00",
+      "teams": "CA Osasuna vs Espanyol",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 1.98,
+      "bookmaker": "Pinnacle",
+      "edge": 3.1,
+      "confidence": 29,
       "result": "pending"
     }
   ]
