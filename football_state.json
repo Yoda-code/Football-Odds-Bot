@@ -2,7 +2,8 @@
   "alerted_bets": {
     "988bf24f295c26c84ff1890b0df16cdf:totals:Under": "2026-09-01T19:44:25.167964+00:00",
     "79bc2eff76fa09664659765d5b1ded1a:totals:Under": "2026-09-02T12:40:59.926994+00:00",
-    "fc0154734861d4a222bdb50e15d2bee2:totals:Under": "2026-09-02T15:49:36.255722+00:00"
+    "fc0154734861d4a222bdb50e15d2bee2:totals:Under": "2026-09-02T15:49:36.255722+00:00",
+    "fc0154734861d4a222bdb50e15d2bee2:totals:Over": "2026-09-02T19:37:46.862740+00:00"
   },
   "bet_log": [
     {
@@ -267,6 +268,17 @@
       "bookmaker": "William Hill",
       "edge": 13.9,
       "confidence": 56,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-09-02T19:37:46.862757+00:00",
+      "teams": "Real Madrid vs Rayo Vallecano",
+      "market": "totals",
+      "selection": "Over",
+      "odds": 1.9,
+      "bookmaker": "1xBet",
+      "edge": 3.4,
+      "confidence": 30,
       "result": "pending"
     }
   ]
