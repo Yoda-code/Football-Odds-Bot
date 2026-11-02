@@ -1,12 +1,12 @@
 {
   "alerted_bets": {
-    "3757bcd765c7da1538cdf2785e784038:h2h:Home": "2026-11-01T20:57:15.581444+00:00",
     "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Under": "2026-11-02T18:05:14.285090+00:00",
     "13ac2151b9f6893cedb7f509e64eb070:totals:Under": "2026-11-02T18:05:14.602268+00:00",
     "230a356290e1a358e9dd2f7fa23de3b9:totals:Under": "2026-11-02T18:05:14.967152+00:00",
     "230a356290e1a358e9dd2f7fa23de3b9:totals:Over": "2026-11-02T18:05:15.285467+00:00",
     "13ac2151b9f6893cedb7f509e64eb070:totals:Over": "2026-11-02T18:05:15.625644+00:00",
-    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Over": "2026-11-02T18:05:20.023756+00:00"
+    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Over": "2026-11-02T18:05:20.023756+00:00",
+    "5118966f484adf525196d196a61bc5d6:h2h:Away": "2026-11-02T21:17:09.773744+00:00"
   },
   "bet_log": [
     {
@@ -403,6 +403,17 @@
       "bookmaker": "Unibet (SE)",
       "edge": 6.1,
       "confidence": 47,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-02T21:17:09.773761+00:00",
+      "teams": "Lorient vs Brest",
+      "market": "h2h",
+      "selection": "Away",
+      "odds": 4.85,
+      "bookmaker": "Pinnacle",
+      "edge": 46.7,
+      "confidence": 62,
       "result": "pending"
     }
   ]
