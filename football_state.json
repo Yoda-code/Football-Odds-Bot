@@ -1,12 +1,10 @@
 {
   "alerted_bets": {
-    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Under": "2026-11-02T18:05:14.285090+00:00",
-    "13ac2151b9f6893cedb7f509e64eb070:totals:Under": "2026-11-02T18:05:14.602268+00:00",
-    "230a356290e1a358e9dd2f7fa23de3b9:totals:Under": "2026-11-02T18:05:14.967152+00:00",
-    "230a356290e1a358e9dd2f7fa23de3b9:totals:Over": "2026-11-02T18:05:15.285467+00:00",
-    "13ac2151b9f6893cedb7f509e64eb070:totals:Over": "2026-11-02T18:05:15.625644+00:00",
-    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Over": "2026-11-02T18:05:20.023756+00:00",
-    "5118966f484adf525196d196a61bc5d6:h2h:Away": "2026-11-02T21:17:09.773744+00:00"
+    "5118966f484adf525196d196a61bc5d6:h2h:Away": "2026-11-02T21:17:09.773744+00:00",
+    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Under": "2026-11-03T18:56:45.071429+00:00",
+    "13ac2151b9f6893cedb7f509e64eb070:totals:Under": "2026-11-03T18:56:45.416831+00:00",
+    "13ac2151b9f6893cedb7f509e64eb070:totals:Over": "2026-11-03T18:56:45.742874+00:00",
+    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Over": "2026-11-03T18:56:46.080263+00:00"
   },
   "bet_log": [
     {
@@ -414,6 +412,50 @@
       "bookmaker": "Pinnacle",
       "edge": 46.7,
       "confidence": 62,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-03T18:56:45.071446+00:00",
+      "teams": "Strasbourg vs Brest",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.47,
+      "bookmaker": "Betsson",
+      "edge": 10.3,
+      "confidence": 57,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-03T18:56:45.416847+00:00",
+      "teams": "RC Lens vs Toulouse",
+      "market": "totals",
+      "selection": "Under",
+      "odds": 2.49,
+      "bookmaker": "1xBet",
+      "edge": 10.4,
+      "confidence": 57,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-03T18:56:45.742890+00:00",
+      "teams": "RC Lens vs Toulouse",
+      "market": "totals",
+      "selection": "Over",
+      "odds": 2.45,
+      "bookmaker": "Unibet (SE)",
+      "edge": 8.6,
+      "confidence": 54,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-03T18:56:46.080279+00:00",
+      "teams": "Strasbourg vs Brest",
+      "market": "totals",
+      "selection": "Over",
+      "odds": 2.45,
+      "bookmaker": "Unibet (SE)",
+      "edge": 8.4,
+      "confidence": 53,
       "result": "pending"
     }
   ]
