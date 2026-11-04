@@ -1,9 +1,7 @@
 {
   "alerted_bets": {
-    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Under": "2026-11-03T18:56:45.071429+00:00",
-    "13ac2151b9f6893cedb7f509e64eb070:totals:Under": "2026-11-03T18:56:45.416831+00:00",
-    "13ac2151b9f6893cedb7f509e64eb070:totals:Over": "2026-11-03T18:56:45.742874+00:00",
-    "4d6dd3defbbe20fa24b719f9fcdbf280:totals:Over": "2026-11-03T18:56:46.080263+00:00"
+    "e901dbcdd6e2255fb24d84032b9d437a:h2h:Away": "2026-11-04T19:14:30.666327+00:00",
+    "f43ef699c987e112e115f7035114854e:h2h:Draw": "2026-11-04T19:14:31.069709+00:00"
   },
   "bet_log": [
     {
@@ -455,6 +453,28 @@
       "bookmaker": "Unibet (SE)",
       "edge": 8.4,
       "confidence": 53,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-04T19:14:30.666345+00:00",
+      "teams": "Fenerbahce vs Liverpool",
+      "market": "h2h",
+      "selection": "Away",
+      "odds": 2.18,
+      "bookmaker": "Grosvenor",
+      "edge": 8.1,
+      "confidence": 58,
+      "result": "pending"
+    },
+    {
+      "timestamp": "2026-11-04T19:14:31.069727+00:00",
+      "teams": "AEK Athens vs Real Madrid",
+      "market": "h2h",
+      "selection": "Draw",
+      "odds": 4.5,
+      "bookmaker": "Sky Bet",
+      "edge": 13.7,
+      "confidence": 49,
       "result": "pending"
     }
   ]
